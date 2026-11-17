@@ -1,0 +1,17 @@
+{
+  "name": "Fanghand",
+  "short_name": "Fanghand",
+  "description": "Goalie-Statistik: Saves, Gegentore, Fangquote und Penaltys.",
+  "lang": "de-CH",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060b13",
+  "theme_color": "#060b13",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
